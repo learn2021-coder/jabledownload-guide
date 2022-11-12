@@ -1,6 +1,6 @@
-# jabledownload-guide
+# jabletvdownload 简易教程
 
-# jabletvdownload 使用教程
+# 视频教程地址:https://youtu.be/j0o9EuEyqaw
 
 1. 基本软件安装
 	1. git:https://github.com/git-for-windows/git/releases/download/v2.38.1.windows.1/Git-2.38.1-64-bit.exe
